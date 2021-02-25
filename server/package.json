@@ -1,0 +1,26 @@
+{
+  "name": "letschat",
+  "version": "1.0.0",
+  "description": "\"connect the people\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"error there is an issue\"  exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruved/letschatting.git"
+  },
+  "author": "Ruved Aalam",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ruved/letschatting/issues"
+  },
+  "homepage": "https://github.com/ruved/letschatting#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
